@@ -1,0 +1,44 @@
+Day 01 - 09/06/24
+
+Array
+1 - Sort 0,1,2 : Medium : 12 Min
+2 - Merge Two Sorted Arrays : Easy : 8 Min
+3 - Majority Element : Easy : 3 Min
+4 - 2 SUM :  EASY : 5 Min
+TOTAL : 30 MIN
+
+Linked List
+1 - Reverse a LL : Easy : 16 Min
+2 - Detect a Loop in a LL : Easy : 3 Min
+3 - Middle of the LL : Easy : 3 Min
+TOTAL : 30 MIN
+
+------------------------------------------- 1 Hour : 7 Problems (1:6:0)                          Total 2 Hours : 19 Problems (5:14:0)
+
+Stack 
+1 - Next Greater Element : Easy : 8 Min
+2 - The Celebrity Problem : Medium : 8 Min
+
+Queue
+1 - Implement Queue using Stacks : Easy : 4 Min
+
+Heaps
+1 - Kth Largest Element in an Array : Medium : 2 Min
+2 - Top K frequent Elements in an Array : Medium : 4 Min
+TOTAL : 30 MIN
+
+Tree
+1 - Left View of Binary Tree : Easy : 6 Min
+2 - Height of a BT : Easy : 4 Min 
+3 - Symmetric BT : Easy : 4 Min
+
+Binary Search Tree
+1 - Search key in a BST : Easy : 2 Min
+2 - Kth smallest element in a BST : Medium : 8 Min
+
+Graph 
+1 - DFS : Easy : 4 Min
+2 - BFS : Easy : 5 Min
+TOTAL : 30 MIN
+
+---------------------------------------------------------- 1 Hour : 12 Problems (4:8:0)
