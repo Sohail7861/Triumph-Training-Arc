@@ -71,15 +71,26 @@ Total : 30 Min
 
 
 Tree
-
+1 - Bottom View : Medium : 7 Min
+2 - Level Order Traversal : Medium : 6 Min
+3 - Mirror Tree : Easy : 3 Min
 
 
 Binary Search Tree
+1 - Validate BST : Medium : 6 Min
+2 - Kth Largest Element in BST : EASY : 4 Min
 
-
+Total : 30 Min
 
 Graph
-
+1 Detect Cycle in UG using BFS : Medium : 10 Min
+2 Detect Cycle in UG using DFS : Medium : 10 Min
 
 
 Heap
+1 - Merge K Sorted Arrays : Medium : 3 Min
+2 - Median and Data Stream : Hard : 6 Min
+
+Total 30 Min
+
+---------------------------------------------------------- 1 Hour : 9 Problems (2:6:1)             Total 2 Hours : 19 Problems ( 5:12:2 )
