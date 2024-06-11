@@ -13,7 +13,7 @@ Linked List
 3 - Middle of the LL : Easy : 3 Min
 TOTAL : 30 MIN
 
-------------------------------------------- 1 Hour : 7 Problems (1:6:0)                          Total 2 Hours : 19 Problems (5:14:0)
+------------------------------------------- 1 Hour : 7 Problems (6:1:0)                          Total 2 Hours : 19 Problems (14:5:0)
 
 Stack 
 1 - Next Greater Element : Easy : 8 Min
@@ -41,4 +41,45 @@ Graph
 2 - BFS : Easy : 5 Min
 TOTAL : 30 MIN
 
----------------------------------------------------------- 1 Hour : 12 Problems (4:8:0)
+---------------------------------------------------------- 1 Hour : 12 Problems (8:4:0)
+
+ Day 02 - 11/06/24
+  
+Array
+1 - Maximum Sum Sub Array ( Kadane's Algorithm ) : Easy : 3 Min
+2 - Find the duplicate in an Array : Medium : 5 Min
+3 - Majority Element 2 : Medium : 6 Min
+4 - 4 Sum : Medium : 7 Min
+
+Linked List
+1 - Remove Nthe Node from End : Medium : 8 Min   ||   Total : 30 Min
+2 - Palindrome Linked List : Easy : 5 Min
+
+Stack
+1 - Valid Parentheses : Easy : 3 Min
+2 - Nearest Smaller to Left : Medium : 5 Min
+
+Queue
+1 - Sliding Window Maximum : Hard : 5 Min
+
+String
+1 - Reverse Words in String : Medium : 8 Min
+
+Total : 30 Min
+
+---------------------------------------------------------- 1 Hour : 10 Problems (3:6:1)
+
+
+Tree
+
+
+
+Binary Search Tree
+
+
+
+Graph
+
+
+
+Heap
