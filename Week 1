@@ -94,3 +94,53 @@ Heap
 Total 30 Min
 
 ---------------------------------------------------------- 1 Hour : 9 Problems (2:6:1)             Total 2 Hours : 19 Problems ( 5:12:2 )
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Day 03 - 13/06/24
+
+
+Array
+1 - Best time to buy and sell stock : Easy : 3 Min
+2 - Find Missing and Repeating : Medium : 6 Min 
+3 - Pow(x,n) : Medium : 8 Min  ***
+4 - Longest Consecutive subsequence : Medium : 5 Min
+
+Linked List
+1 - Delete a Node in a Linked List : Medium : 2 Min
+2 - Starting point of loop in a LL : Medium : 2 Min
+
+Stack
+1 - Sort a Stack : Medium : 5 Min                        || Total 30 Min
+2 - Largest Area Histogram : Hard : 10 Min
+
+String
+1 - Longest Palindromic String : Medium : 6 Min
+2 - Valid Anagrams : Easy : 2 Min
+
+Heap
+1 - Maximum Sum Combinations : Medium : 5 Min
+2 - Min and Max Heap Implementations : Easy : 2 Min
+
+Total : 30 Min
+
+---------------------------------------------------------- 1 Hour : 12 Problems (3:8:1)
+
+Binary Tree
+1 - Root to Leaf Path : Medium : 8 Min
+2 - Balanced Binary Tree : Easy : 5 Min
+3 - Maximum Path Sum : Hard : 10 Min  
+
+Binary Search Tree
+1 - Lowest Common Ancestor : Medium : 5 Min            || Total : 30 Min
+2 - Pair Sum in BST : Easy : 7 Min
+
+Graph
+1 - Detect a cycle in Directed Graph using DFS : Medium : 13 Min
+2 - Detect a cycle in Directed Graph using BFS : Medium : 10 Min
+
+---------------------------------------------------------- 1 Hour : 7 Problems (2:4:1)             Total 2 Hours : 19 Problems ( 5:12:2 )
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
